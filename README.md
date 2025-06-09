@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AWS ETL Pipeline Project
 
 This project demonstrates a simple ETL pipeline using AWS Lambda and S3.
@@ -15,3 +16,4 @@ This project demonstrates a simple ETL pipeline using AWS Lambda and S3.
 ## To Do
 - Implement ETL logic in `lambda_function.py`
 - And the file test.csv for testing
+=======
